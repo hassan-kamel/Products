@@ -44,10 +44,10 @@ const Details = () => {
           <Typography variant='caption' color='error'>
             {product.category}
           </Typography>
-          <Typography variant='h4' color='primary'>
+          <Typography variant='h4' color='darkslateblue'>
             {product.title}
           </Typography>
-          <Typography variant='h6' color='success'>
+          <Typography variant='h6' color='white'>
             {product.description}
           </Typography>
           <Typography variant='h2' color='secondary'>

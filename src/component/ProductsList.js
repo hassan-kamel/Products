@@ -64,7 +64,7 @@ function ProductsList() {
       '>
         {products.map((product) => {
           return (
-            <Grid item key={product.id} sm={6} md={4}>
+            <Grid item key={product.id} sm={6} md={4} width='100%'>
               <Prodcut product={product} />
             </Grid>
           );

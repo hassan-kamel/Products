@@ -20,27 +20,15 @@ const theme = createTheme({
     error: {
       main: '#02735E',
     },
-    warning: {
-      main: '#014040',
-    },
     success: {
       main: '#fff',
     },
+    warning: {
+      main: '#014040',
+    },
   },
   typography: {
-    fontFamily: [
-      '-apple-system',
-      'Ubuntu',
-      'BlinkMacSystemFont',
-      '"Segoe UI"',
-      'Roboto',
-      '"Helvetica Neue"',
-      'Arial',
-      'sans-serif',
-      '"Apple Color Emoji"',
-      '"Segoe UI Emoji"',
-      '"Segoe UI Symbol"',
-    ].join(','),
+    fontFamily: ['mistress'].join(','),
   },
 });
 
