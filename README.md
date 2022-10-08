@@ -2,6 +2,6 @@
 
  ### Products is my second app with 
  > Reactjs 
- > Tailwindcss 
+ > Material UI 
 
  ### You can give it a look from [here](https://producs.netlify.app)
